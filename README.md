@@ -14,3 +14,7 @@ this is a good example of [my code](https://gist.github.com/fragataj1/3e0d5b698d
 ### Colab
 
 This is the [notebook](https://colab.research.google.com/github/fragataj1/technical-discussion/blob/main/Technical_docs.ipynb)
+
+### image
+
+https://github.com/fragataj1/technical-discussion/issues/1#issue-1401413964
